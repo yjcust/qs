@@ -1,2 +1,2 @@
 # qs
-qs
+qs php test
